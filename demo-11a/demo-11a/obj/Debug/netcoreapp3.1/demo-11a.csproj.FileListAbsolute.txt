@@ -12,3 +12,17 @@ C:\Users\Erin\Desktop\SCHOOL\Informatica\11A\demo-11a\demo-11a\obj\Debug\netcore
 C:\Users\Erin\Desktop\SCHOOL\Informatica\11A\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.dll
 C:\Users\Erin\Desktop\SCHOOL\Informatica\11A\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.pdb
 C:\Users\Erin\Desktop\SCHOOL\Informatica\11A\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.genruntimeconfig.cache
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\bin\Debug\netcoreapp3.1\demo-11a.exe
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\bin\Debug\netcoreapp3.1\demo-11a.deps.json
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\bin\Debug\netcoreapp3.1\demo-11a.runtimeconfig.json
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\bin\Debug\netcoreapp3.1\demo-11a.runtimeconfig.dev.json
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\bin\Debug\netcoreapp3.1\demo-11a.dll
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\bin\Debug\netcoreapp3.1\demo-11a.pdb
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.csproj.AssemblyReference.cache
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.AssemblyInfoInputs.cache
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.AssemblyInfo.cs
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.csproj.CoreCompileInputs.cache
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.dll
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.pdb
+C:\Users\Erin\Desktop\Homework\demo-11a\demo-11a\obj\Debug\netcoreapp3.1\demo-11a.genruntimeconfig.cache
