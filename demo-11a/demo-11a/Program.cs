@@ -19,10 +19,10 @@ namespace demo_11a
 
 					Person person = new Person(input[0], int.Parse(input[1]));
 					list.Add(person);
-					Console.WriteLine(Person.Greeting()); 
-					person.Eating();
-					person.Working();
-					person.Sleep();
+					Console.WriteLine(Person.Greeting());
+					Console.WriteLine(person.Eating());
+					Console.WriteLine(person.Working());
+					Console.WriteLine(person.Sleep());
 					Console.WriteLine(person.ToString());
 					Console.WriteLine();
 				}
