@@ -88,17 +88,17 @@ namespace demo_11a
 		{
 			return "Hi I am a person:)";
 		}
-		public void Eating()
+		public string Eating()
 		{
-			Console.WriteLine("I am eating breakfast");
+			return "I am eating breakfast";
 		}
-		public void Working()
+		public string Working()
 		{
-			Console.WriteLine("I'm doing my tasks for the day.");
+			return "I'm doing my tasks for the day.";
 		}
-		public void Sleep()
+		public string Sleep()
 		{
-			Console.WriteLine("I am going to sleep");
+			return "I am going to sleep";
 		}
 
 		public override string ToString()
